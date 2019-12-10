@@ -1,0 +1,99 @@
+
+
+.card{
+    
+    height: 1500px;
+    width: 65%;
+    position: absolute;
+    left: 32%;
+}
+
+
+
+
+input[type=radio] {
+    border: 0px;
+    width: 10%;
+    height: 1em;
+}
+
+
+#rd{
+    padding-right: 10px;
+}
+
+.text{
+    position: absolute;
+    top: 35%;
+    left: 8%;
+   
+    width: 80%;
+}
+
+#stretched-link1{
+    position: absolute;
+    top: 10%;
+    right: 46%;
+    text-decoration-line: none;
+}
+
+.form-control{
+    width: 100%;
+}
+
+.link{
+    text-decoration-line: none;
+   margin-left: 31%;
+}
+
+.link1{
+    text-decoration-line: none;
+   margin-left: 38%;
+}
+
+.link2{
+    text-decoration-line: none;
+   margin-left: 45%;
+}
+
+.link3{
+    text-decoration-line: none;
+   margin-left: 45%;
+}
+
+#Acc-del{
+    text-decoration: none;
+    position: absolute;
+    top: 80%;
+    left: 8%;
+}
+
+#Acc-up{
+    text-decoration: none;
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    left: 45%;
+    top: 30%;
+}
+
+#Acc-del:hover{
+    background-color: #E74C3C ;
+    border-color:white;
+}
+
+#Acc-up:hover{
+    border-color: white;
+    background-color: yellowgreen;
+}
+
+.foot{
+  position: absolute;
+    width: 100%;
+    top: 1308px;
+   right: 1px;
+}
+
+#add{
+    margin-top: 3%;
+}
